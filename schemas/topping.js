@@ -18,7 +18,7 @@ export default {
             name:'vegetarian',
             title:'Vegetarian',
             type:'boolean',
-            description:'What is the name of your topping',
+            description:'Is it a vegetarian topping?',
             options:{
                 layout:'checkbox'
             }
